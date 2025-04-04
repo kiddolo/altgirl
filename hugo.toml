@@ -1,0 +1,15 @@
+baseURL = "https://sadgrrl.netlify.app/"
+title = "sadgrrl.log"
+theme = "PaperMod"
+languageCode = "it-it"
+
+[params]
+  author = "AltGrrl"
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+
+[[menu.main]]
+  name = "Archivio"
+  url = "/posts/"
+  weight = 1
